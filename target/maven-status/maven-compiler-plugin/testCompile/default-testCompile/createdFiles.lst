@@ -1,0 +1,7 @@
+com\baeldung\kafka\testcontainers\KafkaTestContainersLiveTest$KafkaTestContainersConfiguration.class
+com\baeldung\kafka\embedded\EmbeddedKafkaIntegrationTest.class
+com\baeldung\kafka\streams\KafkaStreamsApplicationLiveTest.class
+com\baeldung\kafka\ssl\KafkaSslApplicationLiveTest.class
+com\baeldung\kafka\testcontainers\KafkaTestContainersLiveTest.class
+com\baeldung\kafka\streams\WordCountProcessorUnitTest.class
+com\baeldung\monitoring\LiveLagAnalyzerServiceLiveTest.class

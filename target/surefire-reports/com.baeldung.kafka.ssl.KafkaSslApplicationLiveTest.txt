@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.baeldung.kafka.ssl.KafkaSslApplicationLiveTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 5.234 s <<< FAILURE! - in com.baeldung.kafka.ssl.KafkaSslApplicationLiveTest
+givenSslIsConfigured_whenProducerSendsMessageOverSsl_thenConsumerReceivesOverSsl  Time elapsed: 0.004 s  <<< ERROR!
+java.lang.IllegalStateException: Could not find a valid Docker environment. Please see logs and check configuration
+	at com.baeldung.kafka.ssl.KafkaSslApplicationLiveTest.<init>(KafkaSslApplicationLiveTest.java:31)
+

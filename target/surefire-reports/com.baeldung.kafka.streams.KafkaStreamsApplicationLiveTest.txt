@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.baeldung.kafka.streams.KafkaStreamsApplicationLiveTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.01 s <<< FAILURE! - in com.baeldung.kafka.streams.KafkaStreamsApplicationLiveTest
+com.baeldung.kafka.streams.KafkaStreamsApplicationLiveTest  Time elapsed: 0.01 s  <<< ERROR!
+java.lang.IllegalStateException: Previous attempts to find a Docker environment failed. Will not retry. Please see logs and check configuration
+
